@@ -1,3 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandrZeus&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+# Hellooo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrZeus&langs_count=10&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandrZeus&hide=stars,issues&&show_icons=true&bg_color=111c18&text_color=c1c497&icon_color=acd4cf&title_color=2dd5b7)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandrZeus&langs_count=10&layout=donut&bg_color=111c18&text_color=c1c497&icon_color=acd4cf&title_color=2dd5b7)
