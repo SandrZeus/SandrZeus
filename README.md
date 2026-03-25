@@ -71,7 +71,7 @@ raspberrypi5    Ready    control-plane,master   K3s
 
 SERVICES: vaultwarden · nextcloud · forgejo · grafana · prometheus
           loki · alertmanager · immich · kavita · ntfy · onlyoffice 
-          homelab-dashboard · servicepatrol · porfolio
+          homelab-dashboard · servicepatrol · portfolio
 ```
 
 Everything self-hosted on a **Raspberry Pi 5** (8GB + NVMe) behind **Caddy** with automatic TLS via Let's Encrypt & Porkbun DNS. All manifests version-controlled, NodePorts starting at `30080`.
