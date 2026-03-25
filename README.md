@@ -89,11 +89,3 @@ Everything self-hosted on a **Raspberry Pi 5** (8GB + NVMe) behind **Caddy** wit
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SandrZeus&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
-
----
-
-<div align="center">
-
-*I don't use frameworks to learn frameworks. I build from scratch to understand what's underneath.*
-
-</div>
