@@ -24,10 +24,12 @@ I'm a backend-focused software engineer based in Berlin. I like building things 
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Infrastructure & Tools**
@@ -48,7 +50,7 @@ I'm a backend-focused software engineer based in Berlin. I like building things 
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white)
 
 ---
 
@@ -56,8 +58,8 @@ I'm a backend-focused software engineer based in Berlin. I like building things 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ServicePatrol**](https://github.com/SandrZeus/ServicePatrol) | HTTP health monitoring service with per-target goroutine scheduling, SQLite persistence, and Alertmanager integration. Deployed on K3s. | `Go` `SQLite` `K3s` |
-| [**Homelab Dashboard**](https://github.com/SandrZeus/homelab-dashboard) | Real-time monitoring dashboard for my K3s cluster. Go backend with embedded static files, React/TS frontend, WebSocket live updates. | `Go` `React` `TypeScript` |
+| [**ServicePatrol**](https://github.com/SandrZeus/ServicePatrol) | HTTP health monitoring service with per-target goroutine scheduling, SQLite persistence, and Alertmanager integration. | `Go` `SQLite` `Alertmanager` |
+| [**Homelab Dashboard**](https://github.com/SandrZeus/homelab-dashboard) | Real-time monitoring dashboard for my K3s cluster. Go backend with embedded static files, React/TS frontend, WebSocket live updates, and integrated ServicePatrol UI. | `Go` `React` `TypeScript` `K3s` |
 | **Portfolio** | Personal site styled as a tmux terminal emulator with ASCII box-drawing. Self-hosted via Caddy. | `React` `TypeScript` |
 | [**RL Street Fighter**](https://github.com/SandrZeus/StreetFighterAI) | Reinforcement learning agent trained to play Street Fighter. | `Python` `RL` |
 
