@@ -4,7 +4,7 @@
 
 **Software Engineer**
 
-`Berlin, DE` · `21 y/o` · `SWE Graduate`
+`Berlin, DE` · `22 y/o` · `SWE Graduate`
 
 [![Portfolio](https://img.shields.io/badge/sandrzeus.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://sandrzeus.me)
 [![Email](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sandro.megrelishvili@proton.me)
