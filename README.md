@@ -15,7 +15,7 @@
 
 ### `> sandrzeus`
 
-I'm a backend-focused software engineer based in Berlin. I like building things from scratch — whether that's services in Go, dev tooling, or my own infrastructure. Currently looking for backend and systems-focused developer roles.
+I'm a backend-focused software engineer based in Stuttgart. I like building things from scratch — whether that's services in Go, dev tooling, or my own infrastructure. Currently looking for backend and systems-focused developer roles.
 
 ---
 
